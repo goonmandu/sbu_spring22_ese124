@@ -7,7 +7,7 @@ Originally authored by Mingi Hwang, a Stony Brook University student studying Co
 I got an A for the final grade with this code.
 
 # Warnings and Disclaimers
-**THESE FILES ARE PROVIDED ONLY FOR REFERENCE USE ONLY.**
+**THESE FILES ARE PROVIDED FOR REFERENCE USE ONLY.**
 
 By copying my work and submitting them as your own, you are commiting **ACADEMIC DISHONESTY** and may be referred to the Stony Brook Student Judiciary.  
 If found responsible, you **WILL** get a **Q** as your final grade (which stands for Questionable). This is basically an F, but because you cheated.  
